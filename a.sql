@@ -1,1 +1,1 @@
-a.sql
+delete from tab;
